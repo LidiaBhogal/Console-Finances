@@ -128,8 +128,12 @@ for (let i = 0; i < monthlyChanges.length; i++) {
 }
 console.log(monthlyDifference);
 var average = monthlyDifference / monthlyChanges.length
-console.log("finances length", finances.length);
-console.log("yearly Total", total)
+
+
+console.log('Financial Analysis')
+console.log('-------------------------')
+console.log("Finances Length", finances.length);
+console.log("Yearly Total", total)
 console.log("Average", average);
 console.log("Greatest Increase in Profits", mostProfit);
 console.log("Greatest Decrease in Profits", leastProfit);

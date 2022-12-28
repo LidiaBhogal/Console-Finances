@@ -23,7 +23,8 @@ N/A
 In this task I used for loops and if statements as well as variables. Below is an image the page once you inspect/console.
 
 
-<img width="2240" alt="Screenshot 2022-12-28 at 19 47 53" src="https://user-images.githubusercontent.com/116956128/209864819-e73edf09-d493-41db-97db-fea125650f2b.png">
+
+<img width="2240" alt="Screenshot 2022-12-28 at 19 56 59" src="https://user-images.githubusercontent.com/116956128/209865689-bd82c649-63db-4047-9348-39f7aae57f41.png">
 
 
 ## Deployment
